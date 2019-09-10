@@ -27,6 +27,7 @@ namespace WpfAppDemo.Services
                 return JsonConvert.DeserializeObject<List<Product>>(responseData);
             }
             return null;
+
         }
 
         public List<Product> GetProduct()
