@@ -8908,11 +8908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\AppWpfDemo\\ApiAppDemo\\ApiAppDemo.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\ApiAppDemo\\ApiAppDemo\\ApiAppDemo.csproj",
       "projectName": "ApiAppDemo",
-      "projectPath": "C:\\Users\\pc\\Desktop\\AppWpfDemo\\ApiAppDemo\\ApiAppDemo.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\ApiAppDemo\\ApiAppDemo\\ApiAppDemo.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\AppWpfDemo\\ApiAppDemo\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\ApiAppDemo\\ApiAppDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
